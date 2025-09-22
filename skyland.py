@@ -12,8 +12,7 @@ import requests
 from datetime import date
 
 token_save_name = 'TOKEN.txt'
-app_code = '4ca99fa6b56cc2ba'
-token_env = os.environ.get('TOKEN')
+app_code = '4ca99fa6b56cc2ba
 sign_token = ''
 header = {
     'cred': '',
